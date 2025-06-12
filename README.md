@@ -80,6 +80,7 @@ Esse comando exibe todas as rotas configuradas manualmente, que permitem a comun
 ## 📦 Arquivo do projeto
 
   O arquivo .pkt pode ser aberto diretamente no Cisco Packet Tracer para visualizar e testar a rede.
+  ⬇️ [Clique aqui para baixar o projeto Cisco Packet Tracer (.pkt)](https://github.com/devverissimo/Rede_AgenciaBancaria/blob/main/Infra_AgenciaBancaria.pkt)_
 
 
   
