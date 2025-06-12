@@ -50,7 +50,7 @@ Para pessoas recrutadoras ou avaliadoras não técnicas, seguem algumas formas s
 3. Digite:
    ```bash
    ping 10.10.0.17
-#Teste tambêm:
+### Teste também:
   ```bash
    ping 10.10.0.33
 ```
@@ -58,10 +58,8 @@ Para pessoas recrutadoras ou avaliadoras não técnicas, seguem algumas formas s
 
 No mesmo terminal do PC:
 
-bash
-Copiar
 ```bash
-ping 8.8.8.8
+   ping 8.8.8.8
 ```
 Se a resposta for algo como "Reply from..."
 O roteador está fazendo NAT corretamente e o PC está simulando acesso à internet.
