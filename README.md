@@ -2,7 +2,7 @@
 
 ## 📘 Visão Geral do Projeto
 
-Este projeto acadêmico foi desenvolvido na disciplina de Redes de Computadores com o objetivo de simular uma infraestrutura de rede para uma cooperativa bancária fictícia, localizada em Goiás, Brasil. Ele conecta três agências — Goiânia (Matriz), Anápolis e Catalão — utilizando boas práticas de endereçamento, roteamento e segurança.
+Este projeto acadêmico foi desenvolvido na disciplina de Redes de Computadores II com o objetivo de simular uma infraestrutura de rede para uma cooperativa bancária fictícia, localizada em Goiás, Brasil. Ele conecta três agências — Goiânia (Matriz), Anápolis e Catalão — utilizando boas práticas de endereçamento, roteamento e segurança.
 
 > 💡 **Objetivo**: Demonstrar o domínio de conceitos essenciais de redes de computadores na prática, usando o Cisco Packet Tracer.
 
